@@ -1,8 +1,25 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
+import Footer from "./components/Footer";
+import MyProjects from "./components/MyProjects";
+import Header from "./components/Header";
+import MyExperties from "./components/MyExperties";
+import AboutMe from "./components/AboutMe";
 
 function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+  return (
+    <>
+      <header>
+        <Header />
+      </header>
+      <main>
+        <MyExperties />
+        <AboutMe />
+        <MyProjects />
+      </main>
+      <footer className="bg-exDark ">
+        <Footer />
+      </footer>
+    </>
+  );
 }
 
 export default App;
