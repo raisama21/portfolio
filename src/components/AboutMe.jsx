@@ -14,7 +14,7 @@ export default function AboutMe() {
           <div className="lg:col-start-2 lg:row-span-3 mb-5 lg:mb-0">
             <img src={avatar2} alt="#" className="mx-auto lg:mx-0" />
           </div>
-          <div className="lg:row-start-2 row-span-2 lg:px-12">
+          <div className="row-span-2 px-5 lg:row-start-2 lg:px-12">
             <p className="mb-4">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut

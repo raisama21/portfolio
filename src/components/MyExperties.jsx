@@ -36,9 +36,11 @@ export default function MyExperites() {
               </p>
             </div>
           </div>
-          <button className="font-black text-[#333333] bg-accent py-3 px-12 shadow-md">
-            see my work
-          </button>
+          <a href="#my-work">
+            <button className="font-black text-[#333333] bg-accent py-3 px-12 shadow-md">
+              see my work
+            </button>
+          </a>
         </div>
       </div>
     </section>

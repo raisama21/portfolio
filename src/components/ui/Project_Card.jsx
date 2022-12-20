@@ -3,7 +3,7 @@ export default function Project_Card(props) {
     <li className="max-w-sm bg-light rounded-xl shadow-md">
       <div className="overflow-hidden rounded-t-xl">
         <img
-          src={`../img/${props.coverImg}`}
+          src={props.coverImg}
           alt="#"
           className="rounded-t-xl cursor-pointer transition-transform duration-200 ease-in hover:scale-105"
         />

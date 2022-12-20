@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <div className="max-w-desktop mx-auto py-16">
       <div className="flex flex-col items-center">
-        <h3 className="text-accent font-black mb-8 tracking-wider">
+        <h3 className="text-accent font-medium mb-8 tracking-wider">
           freekinguse21@gmail.com
         </h3>
         <div className="w-60 flex justify-between ">
