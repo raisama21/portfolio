@@ -6,10 +6,10 @@ export default function MyExperites() {
         id="my-services"
       >
         <div className="max-w-desktop mx-auto text-center">
-          <h2 className="custom-underline text-accent mb-16">What I do</h2>
+          <h2 className="custom-underline text-accent mb-16">My experties</h2>
           <div className="grid gap-8 max-w-[72rem] mx-auto mb-8 px-5 lg:grid-cols-3 lg:mb-14">
             <div>
-              <h3 className="text-light mb-4">Web Development</h3>
+              <h3 className="text-light mb-4">HTML / CSS</h3>
               <p className="text-light">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -18,7 +18,7 @@ export default function MyExperites() {
               </p>
             </div>
             <div>
-              <h3 className="text-light mb-4">E-Commerce</h3>
+              <h3 className="text-light mb-4">SCSS / Tailwindcss</h3>
               <p className="text-light">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -27,7 +27,7 @@ export default function MyExperites() {
               </p>
             </div>
             <div>
-              <h3 className="text-light mb-4">WordPress</h3>
+              <h3 className="text-light mb-4">Javascript / React</h3>
               <p className="text-light">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut

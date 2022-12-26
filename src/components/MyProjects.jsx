@@ -75,7 +75,10 @@ export default function MyProjects() {
       </div>
       <div className="flex justify-center">
         <button className="load-btn">
-          <a href="https://dribbble.com/raisama21" target="_blank">
+          <a
+            href="https://github.com/raisama21?tab=repositories"
+            target="_blank"
+          >
             view more
           </a>
         </button>

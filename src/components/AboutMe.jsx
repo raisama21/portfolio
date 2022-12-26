@@ -15,19 +15,20 @@ export default function AboutMe() {
             <img src={avatar2} alt="#" className="mx-auto lg:mx-0" />
           </div>
           <div className="row-span-2 px-5 lg:row-start-2 lg:px-12">
-            <p className="mb-4">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit
-              amet, consectetur adipiscing elit, sed do eiusmod tempor
+            <p className="mb-4 text-xl font-normal">
+              I am an aspiring self-taught frontend web developer based out of
+              Kathmandu Nepal.
             </p>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit
-              amet, consectetur adipiscing elit, sed do eiusmod tempor
+              While I may not have a formal education in computer science or web
+              development, I have always been passionate about technology and
+              programming. I have taught myself programming languages and
+              frameworks through online resources. I have had the opportunity to
+              work on a wide range of front-end development projects, including
+              building responsive websites and creating interactive user
+              interfaces. I am proficient in SASS, Tailwindcss, Javascript,
+              React and I am comfortable working with both static and dynamic
+              websites.
             </p>
           </div>
         </div>

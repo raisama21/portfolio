@@ -5,7 +5,7 @@ export default function HamburgerMenu(props) {
   };
 
   return (
-    <div
+    <button
       className={`hamburger-menu ${open}`}
       style={style}
       onClick={props.handleShow}
@@ -13,6 +13,6 @@ export default function HamburgerMenu(props) {
       <span className="ham-top"></span>
       <span className="ham-middle"></span>
       <span className="ham-bottom"></span>
-    </div>
+    </button>
   );
 }
